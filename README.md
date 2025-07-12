@@ -20,7 +20,7 @@ Modern URL shortener built with ASP.NET Core Minimal APIs.
 
 ## Quick Start
 
-1. **Clone and setup**
+1. **Clone and setup (Update connection string in appsettings.json)**
    ```bash
    git clone https://github.com/ilkeozs/EzUrl.git
    cd EzUrl
